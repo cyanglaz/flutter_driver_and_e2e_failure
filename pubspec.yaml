@@ -1,0 +1,21 @@
+name: ios_platform_view_tests
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_driver:
+    sdk: flutter
+  test: 1.14.2
+  e2e: 0.3.0
+
+flutter:
+  uses-material-design: true

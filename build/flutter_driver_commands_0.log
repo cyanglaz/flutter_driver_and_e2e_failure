@@ -1,0 +1,49 @@
+2020-03-11 15:25:13.666484 >>> {command: get_health}
+2020-03-11 15:25:14.245587 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 15:25:14.257467 >>> {command: waitFor, finderType: ByValueKey, keyValueString: platform_view_button, keyValueType: String}
+2020-03-11 15:25:14.278416 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 15:25:14.280157 >>> {command: tap, finderType: ByValueKey, keyValueString: platform_view_button, keyValueType: String}
+2020-03-11 15:25:14.359207 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 15:25:14.360428 >>> {command: waitFor, finderType: ByValueKey, keyValueString: plus_button, keyValueType: String}
+2020-03-11 16:28:22.804491 >>> {command: get_health}
+2020-03-11 16:28:23.272044 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:23.291491 >>> {command: waitFor, finderType: ByValueKey, keyValueString: platform_view_button, keyValueType: String}
+2020-03-11 16:28:23.313383 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:23.314712 >>> {command: tap, finderType: ByValueKey, keyValueString: platform_view_button, keyValueType: String}
+2020-03-11 16:28:23.400624 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:23.401679 >>> {command: waitFor, finderType: ByValueKey, keyValueString: plus_button, keyValueType: String}
+2020-03-11 16:28:23.806185 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:23.809264 >>> {command: waitForCondition, conditionName: NoTransientCallbacksCondition}
+2020-03-11 16:28:23.815395 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:23.816092 >>> {command: tap, finderType: ByValueKey, keyValueString: plus_button, keyValueType: String}
+2020-03-11 16:28:23.835778 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:23.836617 >>> {command: waitForCondition, conditionName: NoTransientCallbacksCondition}
+2020-03-11 16:28:24.050490 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:24.051568 >>> {command: tap, finderType: PageBack}
+2020-03-11 16:28:24.077870 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:24.078949 >>> {command: waitForCondition, conditionName: NoTransientCallbacksCondition}
+2020-03-11 16:28:24.405938 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:24.407219 >>> {command: get_health}
+2020-03-11 16:28:24.410636 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:24.418144 >>> {command: waitFor, finderType: ByValueKey, keyValueString: platform_view_button, keyValueType: String}
+2020-03-11 16:28:24.421870 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:24.422609 >>> {command: tap, finderType: ByValueKey, keyValueString: platform_view_button, keyValueType: String}
+2020-03-11 16:28:24.437679 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:24.438519 >>> {command: waitForCondition, conditionName: NoTransientCallbacksCondition}
+2020-03-11 16:28:24.757535 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:24.758785 >>> {command: tap, finderType: PageBack}
+2020-03-11 16:28:24.770609 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:24.771480 >>> {command: waitForCondition, conditionName: NoTransientCallbacksCondition}
+2020-03-11 16:28:25.073378 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:25.074308 >>> {command: waitFor, finderType: ByValueKey, keyValueString: unmerge_button, keyValueType: String}
+2020-03-11 16:28:25.077783 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:25.078311 >>> {command: tap, finderType: ByValueKey, keyValueString: unmerge_button, keyValueType: String}
+2020-03-11 16:28:25.087237 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:25.087830 >>> {command: waitForCondition, conditionName: NoTransientCallbacksCondition}
+2020-03-11 16:28:25.283875 <<< {isError: false, response: null, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:28:25.284691 >>> {command: get_health}
+2020-03-11 16:28:25.287562 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:31:55.117749 >>> {command: get_health}
+2020-03-11 16:31:55.425728 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2020-03-11 16:32:59.432088 >>> {command: get_health}
+2020-03-11 16:32:59.828242 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
